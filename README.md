@@ -33,3 +33,8 @@ Just click [here](https://vedantp1907.github.io/Mini-Project-1/)
 
 - [Vedant Patil](https://github.com/vedantp1907)
 
+
+## Contributers
+
+- [Daneesh Shetty](https://github.com/realdaneesh)
+- [Mathan Warandekar](https://github.com/Manthan996-dot)
